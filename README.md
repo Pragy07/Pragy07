@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Pragyan Parimita Nath 
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Css, Html, jQuery, javascript and bootstrap 
-- 📫 How to reach me : LinkedIn and Instagram account has been given in the profile.
+👩‍💻 Computer Science Engineer
+☁️ AWS (EC2, S3, Lambda) | Cloud Projects
+🤖 Generative AI | NLP | Machine Learning
+🌐 Full-Stack Web Development
+🔥 Building scalable & smart solutions
 
 <!---
 Pragy07/Pragy07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
